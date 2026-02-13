@@ -9,6 +9,7 @@ Languages I know
 - C (a nightmare to make a dynamic string) 
 - C++ (My beloved) 
 - php (it's C++ with more $) 
+- JavaScript (I actually quite like js) 
  
 <!---
 tbaggeroftheuk/tbaggeroftheuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
