@@ -1,6 +1,6 @@
 Hi I'm tbaggeroftheuk
 
-I am home schooled and I am a NERD. I like homebrew and coding and an currently making a point and click game in C++ :D.
+I am home schooled and I am a NERD. I like homebrew and coding and an currently making a game engine in C++ :D.
 
 Languages I know 
 
