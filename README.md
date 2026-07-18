@@ -11,6 +11,8 @@ Languages I know
 - php (it's C++ with more $) 
 - JavaScript (I actually quite like js) 
  
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tbaggeroftheuk)](https://github.com/stats-organization/github-stats-extended)
+
 <!---
 tbaggeroftheuk/tbaggeroftheuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
